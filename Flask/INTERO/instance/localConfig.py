@@ -1,0 +1,9 @@
+SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:password@localhost:3306/intero'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SECRET_KEY = '123456'
+
+QINIU_ACCESS_KEY = 'u1M-QQ-m0ciNAhDn2AZ6iODyKnjUmY7EW1uH2ZiZ'
+QINIU_SECRET_KEY = 'QN3dDZvbX5MdDxfWsf4vua774Wz_5JFCZP78PGTU'
+QINIU_BUCKET_NAME = 'makerimg'
+QINIU_BUCKET_DOMAIN = 'oc1is8h9w.bkt.clouddn.com/'
+
